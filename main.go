@@ -1,4 +1,4 @@
-package servicereply
+package main
 
 import "fmt"
 
